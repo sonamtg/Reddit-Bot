@@ -1,6 +1,6 @@
 # Inspirational Reddit Bot
 
-**This Reddit Bot comments randomly chosen inspirational quotes for any subreddit comment that contains the word "sad", "happy" or "dejected".**
+**The Reddit Bot comments randomly selected inspirational quotes for subreddit comments containing those words: "sad", "happy", "dejected".".**
 
 **Requirements:-**
 - Python
@@ -8,9 +8,9 @@
 - Reddit Account
 
 **Setup:-**
-- Enter your own Reddit API Client ID and Client Key (https://www.reddit.com/prefs/apps)
-- Enter your own Reddit Username and Password
-- Choose any subreddit of your liking and replace it on line 16 (Please refrain from using any serious ones)
+- Please enter your own Reddit API Client ID and Client Key (https://www.reddit.com/prefs/apps)
+- You will need to enter your own Reddit username and password
+- Replace line 16 with any subreddit you like (please refrain from using any serious subreddits)
 
 **How to run the Bot:-**
 -$ python first.py
