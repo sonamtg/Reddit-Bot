@@ -13,7 +13,7 @@ reddit = praw.Reddit(
 
 )
 
-subreddit = reddit.subreddit("MMA")
+subreddit = reddit.subreddit("test")
 
 #storing the quotes in a list
 quotes = ["In the middle of every difficulty lies opportunity.  -Albert Einstein,", 
